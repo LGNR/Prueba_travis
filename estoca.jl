@@ -27,11 +27,8 @@ function prueba(A)
 			check=check+1;
 		end
 	end
-	if check==dim[1]
-		print("Es estocástica");
-	else
-		print("No es estocástica");
-	end
+	check==dim[1]
+
 end
 		
 @test prueba(estoca(3,3))
