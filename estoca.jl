@@ -1,3 +1,4 @@
+Base.Test
 
 function estoca(n,m)
        A=zeros(Float64,n,m);
@@ -33,4 +34,4 @@ function prueba(A)
 	end
 end
 		
-	
+@test prueba(estoa(3,3))
