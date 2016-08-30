@@ -1,4 +1,4 @@
-Base.Test
+using Base.Test
 
 function estoca(n,m)
        A=zeros(Float64,n,m);
