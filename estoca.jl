@@ -12,7 +12,7 @@ function estoca(n,m)
 		A[i,j]= A[i,j]/sum;
 	   end
        end
-       print(A);
+       A
 end
 
 function prueba(A)
