@@ -34,4 +34,4 @@ function prueba(A)
 	end
 end
 		
-@test prueba(estoa(3,3))
+@test prueba(estoca(3,3))
