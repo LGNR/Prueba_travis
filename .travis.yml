@@ -1,4 +1,4 @@
 language: julia
 julia:
   - 0.4.6
-script: julia estoca.jl
+script: julia estoca.jl tarea5.jl
